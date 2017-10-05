@@ -1,0 +1,131 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* product_color
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 9.0e-20170815\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-05 20:33+0000\n"
+"PO-Revision-Date: 2017-10-05 16:34-0400\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"Language: es_MX\n"
+"X-Generator: Poedit 1.8.11\n"
+
+#. module: product_color
+#: model:ir.model.fields,help:product_color.field_product_color_color
+msgid "Choose the color"
+msgstr "Elija el color"
+
+#. module: product_color
+#: model:ir.model.fields,field_description:product_color.field_product_color_color
+#: model:ir.model.fields,field_description:product_color.field_product_template_product_color_id
+#: model:ir.ui.view,arch_db:product_color.product_template_form_color_add
+#: model:ir.ui.view,arch_db:product_color.view_product_template_search_color
+msgid "Color"
+msgstr "Color"
+
+#. module: product_color
+#: model:ir.model.fields,field_description:product_color.field_product_color_name
+#: model:ir.ui.view,arch_db:product_color.view_product_color_form
+msgid "Color Name"
+msgstr "Color"
+
+#. module: product_color
+#: model:ir.actions.act_window,name:product_color.action_open_color_products
+msgid "Color Products"
+msgstr "Productos por Color"
+
+#. module: product_color
+#: model:ir.model.fields,field_description:product_color.field_product_color_product_ids
+msgid "Colors Products"
+msgstr "Productos por Colores"
+
+#. module: product_color
+#: model:ir.actions.act_window,help:product_color.action_product_color
+msgid "Create a Product Color."
+msgstr "Registre un color de producto."
+
+#. module: product_color
+#: model:ir.model.fields,field_description:product_color.field_product_color_create_uid
+msgid "Created by"
+msgstr "Creado por"
+
+#. module: product_color
+#: model:ir.model.fields,field_description:product_color.field_product_color_create_date
+msgid "Created on"
+msgstr "Creado en"
+
+#. module: product_color
+#: model:ir.model.fields,field_description:product_color.field_product_color_display_name
+msgid "Display Name"
+msgstr "Nombre desplegado"
+
+#. module: product_color
+#: model:ir.model.fields,field_description:product_color.field_product_color_id
+msgid "ID"
+msgstr "ID"
+
+#. module: product_color
+#: model:ir.model.fields,field_description:product_color.field_product_color___last_update
+msgid "Last Modified on"
+msgstr "Ultima modificacion realizada"
+
+#. module: product_color
+#: model:ir.model.fields,field_description:product_color.field_product_color_write_uid
+msgid "Last Updated by"
+msgstr "Ultima actualizacion por"
+
+#. module: product_color
+#: model:ir.model.fields,field_description:product_color.field_product_color_write_date
+msgid "Last Updated on"
+msgstr "Ultima actualización realizada"
+
+#. module: product_color
+#: model:ir.model.fields,field_description:product_color.field_product_color_products_count
+msgid "Number of products"
+msgstr "Cantidad de productos"
+
+#. module: product_color
+#: model:ir.actions.act_window,name:product_color.action_open_single_product_color
+#: model:ir.ui.view,arch_db:product_color.product_color_search_form_view
+#: model:ir.ui.view,arch_db:product_color.view_product_color_form
+msgid "Product Color"
+msgstr "Color del Producto"
+
+#. module: product_color
+#: model:ir.ui.menu,name:product_color.menu_product_color
+msgid "Product Colors"
+msgstr "Colores de producto"
+
+#. module: product_color
+#: model:ir.model,name:product_color.model_product_template
+msgid "Product Template"
+msgstr "Plantilla de producto"
+
+#. module: product_color
+#: model:ir.ui.view,arch_db:product_color.view_product_color_form
+#: model:ir.ui.view,arch_db:product_color.view_product_color_kanban
+msgid "Products"
+msgstr "Productos"
+
+#. module: product_color
+#: model:ir.model.fields,help:product_color.field_product_template_product_color_id
+msgid "Select a color for this product"
+msgstr "Selecciona un color para este producto"
+
+#. module: product_color
+#: model:ir.actions.act_window,name:product_color.action_product_color
+msgid "Style Color"
+msgstr "Color"
+
+#. module: product_color
+#: model:ir.model,name:product_color.model_product_color
+#: model:ir.ui.view,arch_db:product_color.view_product_color_tree
+msgid "product.color"
+msgstr "product.color"
